@@ -1,2 +1,2 @@
 # Sorting
-Some of the sorting algorithms in C++.
+Some of the sorting algorithms implemented in C++.
